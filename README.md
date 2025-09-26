@@ -18,11 +18,9 @@
 
 ---
 
-### 🛠️ Tech Stack (Auto-detected)
+### 🛠️ Tech Stack
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimum1&layout=compact&theme=radical&hide_border=true&langs_count=12" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,python,flask,fastapi,cs,dotnet,postgresql,mongodb,docker,git,html,css" />
 </p>
 
 ---
