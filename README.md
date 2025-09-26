@@ -9,60 +9,19 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 💡 Results-driven **Software Engineer** with **3+ years of experience**
-- ⚡ Skilled in **JavaScript, Python, React.js, Next.js, FastAPI, Flask, PostgreSQL**
-- 🌐 Passionate about building **scalable web apps, CRMs, and AI-powered tools**
-- ✍️ Sharing insights on [Medium](https://medium.com/@gsaimum)  
-- 📫 Reach me at **gsaimum@gmail.com**
-
----
-
-### 🛠️ Tech Stack
+### 🛠️ Skillset (Auto-Updated)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,nodejs,express,python,flask,fastapi,postgresql,mongodb,docker,git,html,css" />
+  <!--START_SECTION:languages-->
+  <!-- This section will auto update with your most used languages -->
+  <!--END_SECTION:languages-->
 </p>
-
----
-
-### 🚀 Featured Projects
-
-#### 🔹 [ERP - Solution](https://fountainspace.netlify.app/)
-AI Powered ERP for managing e-commerce data.  
-⚡ Tech: React + Redux (frontend), FastAPI (backend)
-
-#### 🔹 [AI Transcriptor](https://github.com/saimum1/videoTranscriber.git)
-Built with **OpenAI Whisper** & **Gladia API** for multilingual transcription (Bangla → English).
-
-#### 🔹 [SamShop](https://samshopx.netlify.app/)
-A modern eCommerce app with seamless **Next.js + TypeScript frontend** and **FastAPI backend**.
-
-#### 🔹 [SIM Distribution CRM](https://medium.com/@gsaimum/developing-a-robust-crm-front-end-for-an-italian-sim-distribution-company-499cce3f0a47)
-Custom-built CRM for an Italian SIM distribution company.
-
----
-
-### 🏆 Achievements
-- ✅ Built & deployed **CRM frontend with React & Redux** (Sheraspace)
-- ✅ Designed **scalable Flask APIs** with optimized PostgreSQL
-- ✅ Enhanced customer support with **ticketing system & dashboards**
-- ✅ Advocated **Agile, SOLID, and modular architecture** for scalable growth
-
----
-
-### ✍️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Developing a Robust CRM Frontend for an Italian SIM Distribution Company](https://medium.com/@gsaimum/developing-a-robust-crm-front-end-for-an-italian-sim-distribution-company-499cce3f0a47)  
-- [Building SamERP: A Scalable ERP for Modern Businesses](https://medium.com/@gsaimum/building-samerp-a-scalable-erp-for-modern-businesses-7942808d83d2)  
-- [CRM Chat App Help Desk Module](https://medium.com/@gsaimum/crm-chat-app-help-desk-module-2ab77d7683cf)  
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saimum1&show_icons=true&theme=radical" alt="stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimum1&theme=radical" alt="streak" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saimum1&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimum1&theme=radical" height="170"/>
 </p>
 
 ---
